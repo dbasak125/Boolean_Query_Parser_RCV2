@@ -9,4 +9,4 @@ $ java -jar dbasak_project2.jar index output.txt input.txt
 - output.txt: Path to the search result output file 
 - input.txt:  Path to file containig search query. search query terms are separated by 1 whitespace.
 
-*Sample files are included in repo.
+*Sample files are included in jar/.
