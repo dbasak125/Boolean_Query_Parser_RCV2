@@ -16,7 +16,7 @@
             </manifest>
             <zipfileset src="jar-in-jar-loader.zip"/>
             <fileset dir="${dir.workspace}/IRProject2/bin"/>
-            <zipfileset dir="${dir.workspace}/dbasak_project2/lucene-6.2.1/core" includes="lucene-core-6.2.1.jar"/>
+            <zipfileset dir="${dir.workspace}/IRProject2/lib" includes="lucene-core-6.2.1.jar"/>
         </jar>
     </target>
 </project>
