@@ -13,7 +13,7 @@ $ java -jar dbasak_project2.jar index output.txt input.txt
 
 
 Description:
-- Create an In-Memory index of the Reuters RCV2 Corpus (Java)
+- Create an In-Memory index of the Reuters RCV2 Corpus
 - Design a boolean query processor using TAAT/DAAT processing schemes
 - Analyze space/time complexity requirements for the two approaches
 - Optimize search performance on In-Memory index using techniques like: skip-pointers and sorted DF/IDF parsing
